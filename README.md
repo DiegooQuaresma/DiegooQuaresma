@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou [Diego Quaresma]
 
 Bem-vindo(a) ao meu perfil! 🚀  
 Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web, APIs e programação full stack**.  
