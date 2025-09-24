@@ -5,7 +5,7 @@ Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web,
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Tecnologias e Ferramentas :
 ✨ **Frontend:** HTML, CSS, JavaScript, Angular  
 ⚙️ **Backend:** Java, Spring Boot, Node.js  
 🗄️ **Banco de Dados:** MySQL, PostgreSQL  
@@ -13,7 +13,7 @@ Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web,
 
 ---
 
-## 📂 O que você vai encontrar
+## 📂 O que você vai encontrar :
 - 📘 Projetos práticos de estudo  
 - ⚙️ APIs com **Java + Spring Boot** e **Node.js**  
 - 🖥️ Exercícios de **JavaScript**  
@@ -21,7 +21,7 @@ Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web,
 
 ---
 
-## 🚀 Objetivo
+## 🚀 Objetivo :
 Evoluir como **desenvolvedor full stack**, sempre aprendendo novas tecnologias e aplicando em projetos reais.  
 Busco boas práticas e soluções eficientes para desafios de programação.  
 
