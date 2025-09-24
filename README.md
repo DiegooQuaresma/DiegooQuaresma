@@ -1,16 +1,32 @@
-## Olá,me chamo Diego Quaresma !👋
+# 👋 Olá, eu sou [Seu Nome]
 
-<!--
-**DiegooQuaresma/DiegooQuaresma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil! 🚀  
+Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web, APIs e programação full stack**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas
+✨ **Frontend:** HTML, CSS, JavaScript, Angular  
+⚙️ **Backend:** Java, Spring Boot, Node.js  
+🗄️ **Banco de Dados:** MySQL, PostgreSQL  
+🛠️ **Outros:** Git, VSCode, Swagger, Postman  
+
+---
+
+## 📂 O que você vai encontrar
+- 📘 Projetos práticos de estudo  
+- ⚙️ APIs com **Java + Spring Boot** e **Node.js**  
+- 🖥️ Exercícios de **JavaScript**  
+- 🌐 Aplicações integradas com **Angular**  
+
+---
+
+## 🚀 Objetivo
+Evoluir como **desenvolvedor full stack**, sempre aprendendo novas tecnologias e aplicando em projetos reais.  
+Busco boas práticas e soluções eficientes para desafios de programação.  
+
+---
+
+⚡ _"A prática leva à evolução."_  
+
+
